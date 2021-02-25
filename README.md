@@ -10,3 +10,19 @@ Steps:
 6) Make new icons 
 
 Now you are done! 
+
+Axis 
+  1) Modern - Postmodern 
+  2) Profane - Esoteric 
+  3) Centrist - Wacky 
+  4) Pragmatic - Idealistic
+  5) Concrete - Intellectualized  
+  6) Deaccelerate - Accelerate 
+  7) Devolution - Revolution 
+  8) Collective - Individual 
+  9) Primitive - Cybernetic 
+  10) Capital - Communal 
+  11) Exclusive - Inclusive 
+  12) Centrailized - Localized  
+  13) Control - Autonmy 
+  
